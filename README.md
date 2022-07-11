@@ -1,6 +1,9 @@
 # Baekjoon_Py
 Baekjoon_Python
 
+### 반올림 구현
+- [[2033 반올림]](https://github.com/jsk890/Baekjoon_Py/blob/main/Bronze/2033.py)
+
 # 입출력
 ### map(여러 데이터 입력)
 - 두 데이터 [[1271 엄청난 부자2]](https://github.com/jsk890/Baekjoon_Py/blob/main/Bronze/1271.py),
