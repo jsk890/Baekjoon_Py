@@ -17,5 +17,5 @@ Baekjoon_Python
 
 ### 여러줄 한번에 출력하기
 - [[9654 나부 함대 데이터]](https://github.com/jsk890/Baekjoon_Py/blob/main/Bronze/9654.py),
-- [[10170 NFC West vs North]](https://github.com/jsk890/Baekjoon_Py/blob/main/Bronze/10170.py)
+[[10170 NFC West vs North]](https://github.com/jsk890/Baekjoon_Py/blob/main/Bronze/10170.py)
 
