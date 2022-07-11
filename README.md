@@ -10,4 +10,5 @@ Baekjoon_Python
 - [[1271 엄청난 부자2]](https://github.com/jsk890/Baekjoon_Py/blob/main/Bronze/1271.py)
 
 ### 지정 수 만큼 한줄 입력 받기
-- [[4999 아!]](https://github.com/jsk890/Baekjoon_Py/blob/main/Bronze/4999.py)
+- [[4999 아!]](https://github.com/jsk890/Baekjoon_Py/blob/main/Bronze/4999.py),
+[[5522 카드 게임]](https://github.com/jsk890/Baekjoon_Py/blob/main/Bronze/5522.py)
